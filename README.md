@@ -20,7 +20,6 @@ Copy code
 git clone https://github.com/yourusername/json-parser.git
 Include the necessary header files in your C code:
 
-c
 Copy code
 #include "json.h"
 Compile your C program with the library source files:
